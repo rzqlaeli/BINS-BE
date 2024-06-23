@@ -1,1 +1,1 @@
-# BINS-BE
+# niki-bank-backend
